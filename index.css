@@ -1,0 +1,136 @@
+
+.navbar{
+    /* border: 1px solid lightgray; */
+    /* box-shadow: 0 4px 8px 0 rgba(191, 191, 191, 0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+      */
+}
+
+.nav-link{
+    /* border-right: 1px solid lightgray; */
+    /* padding: 12px 40px !important; */
+}
+
+.block1{
+    width: 100%; 
+    position: relative;
+}
+.image1{
+  
+    border: 1px solid rgb(84, 84, 84);
+    height: 500px;
+    width: 94%;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.heading1 .H1{
+    position: absolute;
+    top: 22%;
+    left: 31%;
+    color: white;
+    text-decoration: solid;
+    font-size: 60px;
+    letter-spacing: 2px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.heading1 .H2{
+    position: absolute;
+    top: 35%;
+    left: 39%;
+    color: white;
+    letter-spacing: 1px;
+    font-size: 18px;
+}
+
+.button2{ 
+    margin-top: 5%;
+    margin-bottom: 10%;
+    text-align: center;
+}
+
+.button2:hover {
+    background-color: #0073ff;
+    color: white;
+  }
+  .btn1 {
+    background-color: #ffffff; /* Green */
+    border: 2px solid blue;
+    color: rgb(0, 0, 0);
+    padding: 16px 65px;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer; 
+  }
+  .button1:hover {
+    background-color: rgb(90, 90, 90);
+    color: rgb(255, 255, 255);
+  }
+  .btn2 {
+    position: absolute;
+    left: 43%;
+    top: 42%;
+    background-color:lightgray;
+    border: none;
+    color: rgb(70, 70, 70);
+    padding: 11px 45px;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer; 
+  }
+
+
+
+
+
+.image2{
+    width: 100%;
+    height: 300px;
+}
+
+.image3{
+    width: 100%;
+    height: 380px;
+}
+
+
+
+.heading2 .H1{
+    position: absolute;
+    top: 18%;
+    left: 27%;
+    color: white;
+    text-decoration: solid;
+    font-size: 60px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.heading2 .H2{
+    position: absolute;
+    top: 37%;
+    left: 27%;
+    width: 680px;
+}
+
+.button1:hover {
+    background-color: rgb(90, 90, 90);
+    color: rgb(255, 255, 255);
+  }
+  .btn3 {
+    position: absolute;
+    left: 43%;
+    top: 50%;
+    background-color:lightgray;
+    border: none;
+    color: rgb(70, 70, 70);
+    padding: 19px 65px;
+    text-align: center;
+    font-size: 19px;
+    cursor: pointer; 
+  }
+
+  .large-icon{
+    font-size: 24px;
+  }
+  .bi{
+    margin-top: 5%;
+    margin-right: 15px;
+  }
